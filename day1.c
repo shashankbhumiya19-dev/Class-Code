@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 int main(){
     //a[size]=10,20,45,36,73
     int a[50],size,i,max,min;
